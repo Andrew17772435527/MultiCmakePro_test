@@ -1,0 +1,110 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "common_tools",
+					"jsonFile" : "directory-common_tools-Debug-f8cd95d99b10aa3a3c6b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "common_tools",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "print_function",
+					"jsonFile" : "directory-print_function-Debug-6ba2ea7250d1b6c47903.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "print_function",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "MultiCmakePro_test",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "common_tools::@422f548ecd756995afd9",
+					"jsonFile" : "target-common_tools-Debug-6b6fb62dee363586fe66.json",
+					"name" : "common_tools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "print_function::@d141e1cbf8e81e91ce4d",
+					"jsonFile" : "target-print_function-Debug-74fe1376767af27d8f61.json",
+					"name" : "print_function",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "print_function_test::@d141e1cbf8e81e91ce4d",
+					"jsonFile" : "target-print_function_test-Debug-414fd50c01e840cc0bcd.json",
+					"name" : "print_function_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/MultiCmakePro_test/out/build/x64-debug",
+		"source" : "D:/Code/MultiCmakePro_test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

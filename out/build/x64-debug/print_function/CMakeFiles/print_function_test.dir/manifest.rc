@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Code/MultiCmakePro_test/out/build/x64-debug/print_function/CMakeFiles/print_function_test.dir/embed.manifest"

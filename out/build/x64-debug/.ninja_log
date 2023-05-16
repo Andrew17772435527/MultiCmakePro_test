@@ -1,0 +1,6 @@
+# ninja log v5
+23	383	7054100512231568	print_function/CMakeFiles/print_function_test.dir/src/test.c.obj	1a9765cb13d18f9
+2	3459	7054100512293187	print_function/CMakeFiles/print_function_test.dir/src/print_function.c.obj	a354bedd305a133c
+3459	4242	7054100550624224	bin/print_function_test.exe	9572d1e35b52f0ac
+2	455	7054739908364066	common_tools/CMakeFiles/common_tools.dir/src/function_type.c.obj	2e52ad126e32095a
+2	1276	7054743656229307	lib/common_tools.lib	9c1c33325a17e3

@@ -1,0 +1,9 @@
+D:/Code/MultiCmakePro_test/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Code/MultiCmakePro_test/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/Code/MultiCmakePro_test/out/build/x64-debug/common_tools/CMakeFiles/common_tools.dir
+D:/Code/MultiCmakePro_test/out/build/x64-debug/common_tools/CMakeFiles/edit_cache.dir
+D:/Code/MultiCmakePro_test/out/build/x64-debug/common_tools/CMakeFiles/rebuild_cache.dir
+D:/Code/MultiCmakePro_test/out/build/x64-debug/print_function/CMakeFiles/print_function.dir
+D:/Code/MultiCmakePro_test/out/build/x64-debug/print_function/CMakeFiles/print_function_test.dir
+D:/Code/MultiCmakePro_test/out/build/x64-debug/print_function/CMakeFiles/edit_cache.dir
+D:/Code/MultiCmakePro_test/out/build/x64-debug/print_function/CMakeFiles/rebuild_cache.dir
